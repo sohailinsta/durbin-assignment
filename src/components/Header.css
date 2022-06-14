@@ -1,0 +1,55 @@
+.main-header{
+    display: flex;
+}
+
+.logo-title{
+    display: flex;
+    margin-left: 70px;
+    margin-top: 13px;
+}
+
+.text-durbin{
+    font-size: 45px;
+    font-weight: 300;
+    margin-left: 65px;
+}
+
+.logo-durbin{
+    height: 51px;
+    margin-top: 33px;
+}
+
+.product-container{
+    display: flex;
+    margin-left: 134px;
+    margin-top: 12px;
+}
+
+.products-text{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 29px;
+margin-top: 71px;
+margin-left: 77px;
+color: #1DD9B3;
+}
+
+.sign-in{
+    height: 25px;
+    width: 70px;
+    border: 2px solid #1DD9B3;
+    margin-top: 70px;
+    margin-left: 80px;
+}
+
+.sign-in-text{
+margin-left: 12px;   
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 29px;
+color: #1DD9B3;
+}

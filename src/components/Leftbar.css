@@ -1,0 +1,47 @@
+.main-left-bar{
+    position: absolute;
+}
+
+.real-time-data{
+    display: flex;
+    width: 119px;
+    height: 77px;
+    background-color: #1DD9B3;
+    margin-left: 135px;
+    border-radius: 9px;
+    margin-top: 32px;
+    box-shadow: 2px 4px #cfc1c1;
+}
+
+.real-time-data-two{
+    display: flex;
+    width: 119px;
+    height: 77px;
+    background-color: #1DD9B3;
+    margin-left: 135px;
+    border-radius: 9px;
+    margin-top: 75px;
+    box-shadow: 2px 4px #cfc1c1;
+}
+
+.real-time-logo{
+    margin-top: 25px;
+    margin-left: 24px;
+    color: #ffffff;
+}
+
+.text-real-time{
+    font-size: 12px;
+    margin-top: 19px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.text-low-letency{
+    font-size: 11px;
+    margin-top: 27px;
+    margin-left: 5px;
+    /* text-align: center; */
+    color: #ffffff;
+    font-weight: 700;
+}
